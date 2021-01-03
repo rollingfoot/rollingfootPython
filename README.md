@@ -1,0 +1,3 @@
+# rollingfootPython
+python programming
+テストちゅうですよ！！
